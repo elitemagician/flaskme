@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # python-getting-started
 
 A barebones Python app, which can easily be deployed to Heroku.
@@ -42,3 +43,6 @@ or
 For more information about using Python on Heroku, see these Dev Center articles:
 
 - [Python on Heroku](https://devcenter.heroku.com/categories/python)
+=======
+# flaskme
+>>>>>>> 424836a88a246b4d432f772f7e2fb1b7a60455d5
